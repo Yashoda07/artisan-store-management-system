@@ -12,12 +12,11 @@ The project uses Odoo's standard business applications to simulate the operation
 
 - Understand the fundamentals of ERP systems and business process management.
 - Configure an Odoo environment for a retail business workflow.
-- Manage artisan products and product categories.
-- Track product inventory.
+- Manage artisan product information.
 - Manage customer information.
 - Create and process sales orders.
 - Generate invoices from sales transactions.
-- Understand how different business processes are connected within an ERP system.
+- Understand how sales and invoicing processes are connected within an ERP system.
 
 ## Business Scenario
 
@@ -33,17 +32,10 @@ The workflow simulates a customer purchasing an artisan product and the business
 
 ## Modules Used
 
-### Inventory
-Used to:
-
-- Create and categorize products
-- Maintain product information
-- Track available stock
-- Monitor inventory levels
-
 ### Sales
 Used to:
 
+- Create and manage product information
 - Create customer records
 - Create quotations
 - Create sales orders
@@ -61,8 +53,6 @@ Used to:
 ```text
 Product Creation
        ↓
-Inventory Configuration
-       ↓
 Customer Creation
        ↓
 Quotation
@@ -70,12 +60,11 @@ Quotation
 Sales Order
        ↓
 Invoice Generation
+       ↓
+Invoice Posted
 ```
 
 ## Screenshots
-
-### Odoo Dashboard
-![Odoo Dashboard](screenshots/dashboard.png)
 
 ### Product Management
 <img width="922" height="495" alt="products" src="https://github.com/user-attachments/assets/aaa37af9-1b32-429e-9ae0-8664582755ce" />
