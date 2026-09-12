@@ -70,3 +70,22 @@ Quotation
 Sales Order
        ↓
 Invoice Generation
+```
+
+## Screenshots
+
+### Odoo Dashboard
+![Odoo Dashboard](screenshots/dashboard.png)
+
+### Product Management
+<img width="922" height="495" alt="products" src="https://github.com/user-attachments/assets/aaa37af9-1b32-429e-9ae0-8664582755ce" />
+
+### Sales Order
+<img width="1496" height="345" alt="sales-orders" src="https://github.com/user-attachments/assets/509b2f4c-9833-4313-8bdf-0caa9250de7c" />
+
+### Customer Invoice
+<img width="1221" height="629" alt="yashoda-invoice" src="https://github.com/user-attachments/assets/c628e949-0ac3-45bb-ab73-b67c4a3dc7b6" />
+<img width="1219" height="614" alt="aakash-invoice" src="https://github.com/user-attachments/assets/979ef589-1d34-468b-bad9-da0caf3f0f6e" />
+
+### Customer Management
+<img width="1497" height="366" alt="customer-management" src="https://github.com/user-attachments/assets/04081385-f173-42c0-aaab-eb3ea2f4321e" />
